@@ -1,0 +1,1 @@
+@py.exe C:\Users\Chinm\python_weather_app\weather_app.py %*
